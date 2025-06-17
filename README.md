@@ -18,7 +18,7 @@ Implement a SIC/XE assembler in C based on the textbook’s Figure 2.6 example a
 - `object_program.txt` - output file storing the generated object program in textbook format (H/T/M records).
 
 ## Object Program Output
-Each section of the object program corresponds directly to textbook Figure 2.8.
+Object program corresponds directly to textbook Figure 2.8.
 
 ![obj](image/1.png)
 
