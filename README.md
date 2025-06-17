@@ -1,4 +1,4 @@
-## 📝 SIC-XE-Assembler-System-Programming
+## 📝 SIC/XE-Assembler-System-Programming
 
 A SIC/XE assembler implemented in C, based on the textbook example in Figure 2.6.  
 
@@ -9,6 +9,8 @@ It generates an object program following the record format specified in Figure 2
 - Course code: 3N1383701
 
 - Instructor: Prof. Gwan-Hwan Hwang(黃冠寰 教授)
+
+- Textbook used: System Software An Introduction To Systems Programming, by Leland L. Beck 
 
 - My final project notes: [系統程式 期末專題 SIC/XE 組譯器 筆記](https://hackmd.io/GoPIZP9ASIWGcbJw0iDCIQ?view)
 
