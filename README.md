@@ -17,7 +17,7 @@ It generates an object program following the record format specified in Figure 2
 - `input.txt` - the SIC/XE assembly source file to be assembled.
 - `registers.txt` - register table: maps register names to register numbers.
 - `mnemonic.txt` - opcode table: maps instruction mnemonics to format and opcode.
-- `object_program.txt` - output file storing the generated object program in textbook format (H/T/M records).
+- `object_program.txt` - output file storing the generated object program in textbook format (H/T/M/E records).
 
 ## 📦 Object Program Output
 Object program corresponds directly to textbook Figure 2.8.
