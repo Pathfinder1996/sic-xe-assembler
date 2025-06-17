@@ -12,7 +12,7 @@ It generates an object program following the record format specified in Figure 2
 
 - Textbook used: System Software An Introduction To Systems Programming, by Leland L. Beck 
 
-- My final project notes: [系統程式 期末專題 SIC/XE 組譯器 筆記](https://hackmd.io/GoPIZP9ASIWGcbJw0iDCIQ?view)
+- My final project notes: [系統程式 期末專題 SIC/XE 組譯器 筆記](https://hackmd.io/@Dylan-Dai/rJlpnliIye)
 
 ### 📁 Contents
 - `main.c` - program entry point; Pass 1, Pass 2, and object file generation.
