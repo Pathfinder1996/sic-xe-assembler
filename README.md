@@ -26,7 +26,7 @@ Object program corresponds directly to textbook Figure 2.8.
 
 | Input (input.txt) | Output |
 |-------------|-----------------|
-| ![Input](image/1.PNG) | ![Output](image/2.PNG) |
+| ![Input](image/1.png) | ![Output](image/2.PNG) |
 
 ## 🚀 Getting Started
 To compile the program:
