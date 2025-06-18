@@ -1,4 +1,4 @@
-## 📝 SIC/XE-Assembler-System-Programming
+## 📝 SIC/XE Assembler
 
 A SIC/XE assembler implemented in C, based on the textbook example in Figure 2.6.  
 
