@@ -24,7 +24,9 @@ It generates an object program following the record format specified in Figure 2
 ## 📦 Object Program Output
 Object program corresponds directly to textbook Figure 2.8.
 
-![obj](image/1.png)
+| Input (input.txt) | Output |
+|-------------|-----------------|
+| ![Input](image/1.PNG) | ![Output](image/2.PNG) |
 
 ## 🚀 Getting Started
 To compile the program:
