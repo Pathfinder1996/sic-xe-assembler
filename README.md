@@ -6,7 +6,7 @@ It generates an object program following the record format specified in Figure 2
 
 ### 🔗 1131 NTNU CSIE System Programming Final Project
 
-- Course code: 3N1383701
+- Course code: 3N1383701 [Course link](https://web.ntnu.edu.tw/~ghhwang/course.html)
 
 - Instructor: Prof. Gwan-Hwan Hwang(黃冠寰 教授)
 
