@@ -5,13 +5,9 @@
 組譯後產出 object program 的 record 格式要跟課本 Figure 2.8 一樣。
 
 ### 🔗 1131 NTNU CSIE System Programming Final Project
-
 - 課程代碼: CSU0027 [課程教材連結](https://web.ntnu.edu.tw/~ghhwang/course.html)(三校聯盟課程代碼: 3N1383701)
-
 - 授課老師: Prof. Gwan-Hwan Hwang(黃冠寰 教授)
-
 - 課程用書: System Software An Introduction To Systems Programming, by Leland L. Beck 
-
 - 我的組譯器實作過程筆記: [請點此連結到 系統程式 期末專題 SIC/XE 組譯器 筆記](https://hackmd.io/@Dylan-Dai/rJlpnliIye)
 
 ### 📁 壓縮檔內容
