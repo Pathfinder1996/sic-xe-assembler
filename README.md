@@ -17,7 +17,7 @@
 - `mnemonic.txt` - opcode table: 組譯用，maps instruction mnemonics to format and opcode。
 - `object_program.txt` - 產出的 object，需與課本 Figure 2.8 一樣 (H/T/M/E records)。
 
-## 📦 測試結果(產出 Object Program)
+## 📦 測試結果(產出 Object Program) (點擊縮圖可放大)
 | Input (input.txt) | Output |
 |-------------|-----------------|
 | ![Input](image/1.PNG) | ![Output](image/2.PNG) |
