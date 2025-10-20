@@ -9,6 +9,7 @@
 - 授課老師: Prof. Gwan-Hwan Hwang(黃冠寰 教授)
 - 課程用書: System Software An Introduction To Systems Programming, by Leland L. Beck 
 - 我的組譯器實作過程筆記: [請點此連結到 系統程式 期末專題 SIC/XE 組譯器 筆記](https://hackmd.io/@Dylan-Dai/rJlpnliIye)
+- 如果想要每週作業和期中期末考古題，歡迎來信: daiyan.6666@gmail.com
 
 ### 📁 壓縮檔內容
 - `main.c` - 主程式，包含 Pass 1、Pass 2 與產出 object 檔。
